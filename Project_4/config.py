@@ -1,0 +1,2 @@
+ENV_NAME = "ALE/Boxing-v5"
+EPISODES = 15
